@@ -1,5 +1,9 @@
-dmenu - dynamic menu
-====================
+dmenu fork
+==========
+
+Fork of suckless upstream with trivial patch that does not left-pad vertical
+menu items by the width of the '-p' prompt.
+
 dmenu is an efficient dynamic menu for X.
 
 
